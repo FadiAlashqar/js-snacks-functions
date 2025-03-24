@@ -4,7 +4,10 @@ const userName = 'Mario';
 
 
 // Dichiara la funzione qui.
+function name(personName) {
+    return `ciao ${personName}`
 
+}
 
 // Invoca la funzione qui e stampa il risultato in console
 
